@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "data": {
+    "name": "1",
+    "bio": "1",
+    "profile_image": "1",
+    "profile_image_big": "1",
+    "follower": 1,
+    "following": 1,
+    "external_url": "https:\/\/github.com\/"",
+    "private": true,
+    "verified": true,
+    "business": true
+  }
+}
